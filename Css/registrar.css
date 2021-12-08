@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size:30px;
+}
+.form{
+    font-size: 30px;
+    height: 250px;
+    width: 500px;
+    background: #f9f7f7;
+    text-align: center;
+    margin-left: 30%;
+    
+}
+.form form{
+    text-align: center;
+    
+}
+.form input{
+    width: 100%;
+    width: 450px;
+    height: 40px;
+}
+.form input[type="submit"]{
+    background: #1b4f72;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+
+}
+
+.form input[type="submit"]:hover{
+    background-color:#3498db;
+}

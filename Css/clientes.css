@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    background: yellow;
+}
+div{
+    display: inline-block;
+    height: 450px;  
+}
+header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    font-size: 26px;
+    margin-top: 30px; 
+    margin-bottom: 0; 
+}
+
+.titulo{
+    background:white;
+    color: yellow;
+    width: 330px;
+    height: 70%;
+    margin-top: 0%;
+    margin-left: 0%;
+    border-radius: 8%;
+    float: inline-end;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.titulo h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.form{
+    border-radius: 3%;
+    float: right;
+    background: white;
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 400px;
+    height: 100%;
+}
+
+.form input{
+    border-radius: 40px;
+    margin-top: 20px;
+    height: 35px;
+    width: 84%;
+}
+.form button{
+    border-radius: 40px;
+    width: 200px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 140px;
+    cursor: pointer;
+}
